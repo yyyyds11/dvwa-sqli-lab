@@ -49,6 +49,8 @@ Surname: admin
 
 📸 截图见下文：`screenshots/sqli_success.png`
 
+<div align="center">   <img src="screenshots/sqli_success.png" width="400"/> </div>
+
 ### 3️⃣ 构造信息泄露型 payload（获取数据库版本）：
 
 ```
@@ -57,7 +59,9 @@ Surname: admin
 
 ✅ 效果：可回显数据库版本信息。
 
-📸 截图见：`screenshots/db_dump.png`
+📸 截图：`screenshots/db_dump.png`
+
+<div align="center">   <img src="screenshots/db_dump.png" width="400"/> </div>
 
 ## 💡 四、漏洞原理分析
 
