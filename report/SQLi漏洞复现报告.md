@@ -83,5 +83,5 @@ SQL 注入是由于程序直接将用户输入拼接进 SQL 查询语句，攻�
 
 ## 📚 七、参考链接
 
-- OWASP SQL Injection
+- [OWASP: SQL Injection](https://owasp.org/www-community/attacks/SQL_Injection)
 - [DVWA GitHub](https://github.com/digininja/DVWA)
