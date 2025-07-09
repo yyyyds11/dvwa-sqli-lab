@@ -49,7 +49,7 @@ Surname: admin
 
 📸 截图见下文：`screenshots/sqli_success.png`
 
-![SQLi漏洞](/screenshots/sqli_success.png)
+![SQLi漏洞](../screenshots/sqli_success.png)
 
 ### 3️⃣ 构造信息泄露型 payload（获取数据库版本）：
 
@@ -61,7 +61,7 @@ Surname: admin
 
 📸 截图：`screenshots/db_dump.png`
 
-![SQLi信息泄露](/screenshots/db_dump.png)
+![SQLi信息泄露](../screenshots/db_dump.png)
 
 ## 💡 四、漏洞原理分析
 
